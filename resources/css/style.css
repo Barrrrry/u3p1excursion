@@ -11,3 +11,11 @@ h1{
   font-size: 16px;
   color: aquamarine;
 }
+.desc{
+  font-size: 21px;
+  color: gray;
+}
+.cpr{
+  text-align: right;
+  color: gray;
+}
